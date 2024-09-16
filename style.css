@@ -1,0 +1,51 @@
+body{
+    background-color: #ddd;
+    font-family: Helvetica;
+}
+
+hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    border-radius: 5px;
+}
+
+.header{
+    text-align: center;
+}
+
+.container{
+    background-color: #fff;
+    max-width: 1100px;
+    margin: 50px auto;
+    padding: 20px 50px;
+    border-radius: 15px;
+}
+
+.imagem1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.quote{
+    background-color: #ddd;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.aspas{
+    padding: 20px;
+}
+
+.lista{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
